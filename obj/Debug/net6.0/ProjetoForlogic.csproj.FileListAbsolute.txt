@@ -1,0 +1,15 @@
+C:\Users\jhona\ProjetoForlogic\bin\Debug\net6.0\ProjetoForlogic.exe
+C:\Users\jhona\ProjetoForlogic\bin\Debug\net6.0\ProjetoForlogic.deps.json
+C:\Users\jhona\ProjetoForlogic\bin\Debug\net6.0\ProjetoForlogic.runtimeconfig.json
+C:\Users\jhona\ProjetoForlogic\bin\Debug\net6.0\ProjetoForlogic.dll
+C:\Users\jhona\ProjetoForlogic\bin\Debug\net6.0\ProjetoForlogic.pdb
+C:\Users\jhona\ProjetoForlogic\obj\Debug\net6.0\ProjetoForlogic.csproj.AssemblyReference.cache
+C:\Users\jhona\ProjetoForlogic\obj\Debug\net6.0\ProjetoForlogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\ProjetoForlogic\obj\Debug\net6.0\ProjetoForlogic.AssemblyInfoInputs.cache
+C:\Users\jhona\ProjetoForlogic\obj\Debug\net6.0\ProjetoForlogic.AssemblyInfo.cs
+C:\Users\jhona\ProjetoForlogic\obj\Debug\net6.0\ProjetoForlogic.csproj.CoreCompileInputs.cache
+C:\Users\jhona\ProjetoForlogic\obj\Debug\net6.0\ProjetoForlogic.dll
+C:\Users\jhona\ProjetoForlogic\obj\Debug\net6.0\refint\ProjetoForlogic.dll
+C:\Users\jhona\ProjetoForlogic\obj\Debug\net6.0\ProjetoForlogic.pdb
+C:\Users\jhona\ProjetoForlogic\obj\Debug\net6.0\ProjetoForlogic.genruntimeconfig.cache
+C:\Users\jhona\ProjetoForlogic\obj\Debug\net6.0\ref\ProjetoForlogic.dll
